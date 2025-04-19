@@ -1,2 +1,1 @@
-RODZINA KASPRZAKOW TO DEBILIZMMM
-#JEBACGRIXA
+rodzina kasprzakow to hujnica
