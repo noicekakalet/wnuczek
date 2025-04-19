@@ -1,6 +1,6 @@
 # 💥 VACRECORD – Discord Multi-Spammer
 
-> Project by [ggaappa](https://github.com/ggaappa) and [kamixon131](https://github.com/kamixon131)
+> Project by [ggaappa](https://github.com/noicekakalet) and [kamixon131](https://github.com/kamixon131)
 
 VACRECORD is a powerful tool for testing Discord's messaging limits – perfect for bug bounty, pentesting, and stress-testing. From a clean web panel, you can control multiple accounts and send messages automatically with full flexibility.
 
@@ -68,7 +68,7 @@ A license system (to enable premium access) includes:
 
 ## 🤝 Authors
 
-- 🧠 [ggaappa](https://github.com/ggaappa) – frontend, backend, spam logic
+- 🧠 [ggaappa](https://github.com/noicekakalet) – frontend, backend, spam logic
 - 🛠️ [kamixon131](https://github.com/kamixon131) – backend, license system, integrations
 
 ---
