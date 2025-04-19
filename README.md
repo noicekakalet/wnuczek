@@ -1,1 +1,1 @@
-rodzina kasprzakow to hujnica
+jebac grixa cwela sd
