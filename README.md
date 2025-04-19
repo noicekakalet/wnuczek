@@ -21,7 +21,7 @@ VACRECORD is a powerful tool for testing Discord's messaging limits – perfect 
 ## 🧰 Requirements
 
 - Node.js 
-- MongoDB 
+- MongoDB # not yet
 - Yarn or npm
 - Discord user tokens
 
@@ -57,7 +57,7 @@ VACRECORD/
 
 ---
 
-## 🔑 Licensing System (optional)
+## 🔑 Licensing System (optional) #not yet
 
 A license system (to enable premium access) includes:
 - License key (e.g., distributed via Discord server)
